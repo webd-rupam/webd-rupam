@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently making **Projects**
 
-- 💬 Ask me about **React.Js,Tailwind**
+- 💬 Ask me anything about **MERN**
 
 - 📫 How to reach me **rupammaster2017@gmail.com**
 
