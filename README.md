@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/webd_rupam" target="blank"><img src="https://img.shields.io/twitter/follow/webd_rupam?logo=twitter&style=for-the-badge" alt="webd_rupam" /></a> </p>
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently making **Projects**
 
 - 💬 Ask me about **React.Js,Tailwind**
 
