@@ -63,6 +63,34 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   </a>
+  <a href="https://www.w3schools.com/socket/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="socket.io"/>
+  </a>
+  <a href="https://www.w3schools.com/bootstrap/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  </a>
+  <a href="https://www.w3schools.com/jwt/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
+  </a>
+  <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Puthon"/>
+  </a>
+  <a href="https://www.w3schools.com/vercel/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
+</a>
+<a href="https://recharts.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/recharts-FF4500?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts"/>
+</a>
+<a href="https://www.npmjs.com/package/bcrypt" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/bcrypt-8B4513?style=for-the-badge&logo=npm&logoColor=white" alt="bcrypt"/>
+</a>
+<a href="https://railway.app/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+</a>
+
 </p>
 
 
