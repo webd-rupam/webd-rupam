@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
   </a>
   <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Puthon"/>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
   </a>
   <a href="https://www.w3schools.com/vercel/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
@@ -83,6 +83,9 @@
 </a>
 <a href="https://recharts.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/recharts-FF4500?style=for-the-badge&logo=recharts&logoColor=white" alt="Recharts"/>
+</a>
+<a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
 </a>
 <a href="https://www.npmjs.com/package/bcrypt" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/bcrypt-8B4513?style=for-the-badge&logo=npm&logoColor=white" alt="bcrypt"/>
