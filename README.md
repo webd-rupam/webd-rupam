@@ -68,7 +68,7 @@
   </a>
   <a href="https://www.w3schools.com/bootstrap/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </a>
+  </a>  
   <a href="https://www.w3schools.com/jwt/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/>
   </a>
@@ -92,6 +92,9 @@
 </a>
 <a href="https://railway.app/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+</a>
+<a href="https://www.w3schools.com/linux/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </a>
 
 </p>
